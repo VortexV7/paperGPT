@@ -99,7 +99,7 @@ def main():
                 st.session_state.conversation = get_conversation_chain(
                     vectorstore)
         st.text('''
-                Made with ❤ from Billy 
+                Made with ❤ from Ved 
                 and Team
                 ''')
 
