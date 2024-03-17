@@ -14,6 +14,7 @@ PaperGPT is a web application powered by the GPT-3 model that allows users to up
 - Python
 - Streamlit
 - GPT-3 API
+- HuggingFace API
 - PyPDF2
 - Other libraries and frameworks
 # Future Enhancements:
